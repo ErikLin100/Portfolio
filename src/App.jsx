@@ -22,7 +22,7 @@ export default function App() {
 
   const labels = [
     'Intro',
-    ...projects.map((_, i) => `Project ${i + 1}`),
+    ...projects.map((project) => project.title),
     'Contact',
   ];
 

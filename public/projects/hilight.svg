@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="HiLight placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161c28"/>
+      <stop offset="100%" stop-color="#0a0d12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" rx="16" fill="url(#g)"/>
+  <rect x="40" y="40" width="280" height="720" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="360" y="40" width="860" height="420" rx="12" fill="rgba(201,164,108,0.07)" stroke="rgba(201,164,108,0.22)"/>
+  <rect x="360" y="500" width="410" height="260" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="810" y="500" width="410" height="260" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="640" y="270" text-anchor="middle" fill="#c9a46c" font-family="system-ui,sans-serif" font-size="40" font-weight="600">HiLight</text>
+  <text x="640" y="320" text-anchor="middle" fill="#8a8074" font-family="system-ui,sans-serif" font-size="22">Replace with screenshot</text>
+</svg>

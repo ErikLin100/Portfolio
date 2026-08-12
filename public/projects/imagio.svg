@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280" role="img" aria-label="Imagio placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#241c18"/>
+      <stop offset="100%" stop-color="#100c0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" rx="48" fill="url(#g)"/>
+  <rect x="80" y="180" width="560" height="560" rx="24" fill="rgba(201,164,108,0.07)" stroke="rgba(201,164,108,0.28)"/>
+  <circle cx="360" cy="420" r="90" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="80" y="780" width="560" height="72" rx="14" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="80" y="880" width="560" height="72" rx="14" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="360" y="1120" text-anchor="middle" fill="#c9a46c" font-family="system-ui,sans-serif" font-size="36" font-weight="600">Imagio</text>
+  <text x="360" y="1170" text-anchor="middle" fill="#8a8074" font-family="system-ui,sans-serif" font-size="22">Replace with screenshot</text>
+</svg>
