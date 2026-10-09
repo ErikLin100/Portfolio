@@ -798,10 +798,12 @@ button {
 
 .contact-slide__choices {
   display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  gap: 1.25rem 1.5rem;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
   align-items: stretch;
   text-align: left;
+  width: min(28rem, 100%);
+  margin-inline: auto;
 }
 
 .contact-slide__choice {
@@ -877,6 +879,7 @@ a.contact-slide__choice-main:hover {
 }
 
 .contact-slide__or {
+  justify-self: center;
   align-self: center;
   color: var(--muted);
   font-family: var(--font-display);
@@ -989,15 +992,6 @@ a.contact-slide__choice-main:hover {
   .nav-dots__dot {
     width: 0.55rem;
     height: 0.55rem;
-  }
-
-  .contact-slide__choices {
-    grid-template-columns: 1fr;
-    gap: 0.85rem;
-  }
-
-  .contact-slide__or {
-    justify-self: center;
   }
 
   .contact-slide__subtext {
